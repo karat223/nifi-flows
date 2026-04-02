@@ -161,7 +161,7 @@
       "bundle" : {
         "artifact" : "nifi-standard-nar",
         "group" : "org.apache.nifi",
-        "version" : "5.0.0.0"
+        "version" : "2.4.0"
       },
       "comments" : "",
       "componentType" : "PROCESSOR",
@@ -173,8 +173,8 @@
       "name" : "LogAttribute",
       "penaltyDuration" : "30 sec",
       "position" : {
-        "x" : -154.0,
-        "y" : 12.610801696777344
+        "x" : -512.0,
+        "y" : 32.0
       },
       "properties" : {
         "character-set" : "UTF-8",
