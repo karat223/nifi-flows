@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1775124850615,
+    "description" : "",
+    "identifier" : "my-first-flow",
+    "lastModifiedTimestamp" : 1775124850615,
+    "name" : "my-first-flow",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
