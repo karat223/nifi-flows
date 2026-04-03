@@ -72,7 +72,7 @@
       "bundle" : {
         "artifact" : "nifi-standard-nar",
         "group" : "org.apache.nifi",
-        "version" : "5.0.0.0"
+        "version" : "2.4.0"
       },
       "comments" : "",
       "componentType" : "PROCESSOR",
