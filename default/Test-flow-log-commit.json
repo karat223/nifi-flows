@@ -186,7 +186,7 @@
       "bundle" : {
         "artifact" : "nifi-standard-nar",
         "group" : "org.apache.nifi",
-        "version" : "5.0.0.0"
+        "version" : "2.4.0"
       },
       "comments" : "",
       "componentType" : "PROCESSOR",
@@ -199,7 +199,7 @@
       "penaltyDuration" : "30 sec",
       "position" : {
         "x" : -208.0,
-        "y" : -296.0
+        "y" : -304.0
       },
       "properties" : {
         "character-set" : "UTF-8",
